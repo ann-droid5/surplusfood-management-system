@@ -16,7 +16,7 @@ The platform aims to reduce food wastage while helping local food vendors recove
 
 ---
 
-## Phase 1 Prototype Features
+
 - **Responsive Navigation Bar:** Smooth scrolling to homepage sections plus "Coming Soon" previews for Login and Sign Up.
 - **Hero Section:** Multi-vendor value proposition with primary actions (*Explore Surplus Food* & *Join as a Food Partner*).
 - **Featured Surplus Listings:** 9 multi-vendor sample food items across **Bakery**, **Restaurant**, **Fast Food**, **Café**, and **Sweets** categories with interactive category filtering and a read-only Product & Food Vendor Profile preview modal.
